@@ -6948,10 +6948,22 @@ public final class ChatControllerImpl: TelegramBaseController, ChatController, G
             using: { [weak self] notification in
                 guard
                     let self = self,
-                    let peerId = self.chatLocation.peerId,
-                    let notificationPeerId = notification.object as? PeerId,
-                    peerId == notificationPeerId
+                    let peerId = self.chatLocation.peerId
                 else {
+                    return
+                }
+                
+                let threadId = self.chatLocation.threadId
+                let shouldHandle: Bool
+                if let notificationPeerId = notification.object as? PeerId {
+                    shouldHandle = peerId == notificationPeerId
+                } else if let (notificationPeerId, notificationThreadId) = notification.object as? (PeerId, Int64?) {
+                    shouldHandle = peerId == notificationPeerId && threadId == notificationThreadId
+                } else {
+                    shouldHandle = false
+                }
+                
+                guard shouldHandle else {
                     return
                 }
 
