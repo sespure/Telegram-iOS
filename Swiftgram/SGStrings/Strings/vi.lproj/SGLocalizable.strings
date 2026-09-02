@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Chất lượng của ảnh gửi đi và ảnh Tin";
 "Settings.Photo.SendLarge" = "Gửi ảnh lớn";
 "Settings.Photo.SendLarge.Notice" = "Tăng giới hạn kích thước bên trên của hình ảnh nén lên 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "VIDEO TRÒN";
 "Settings.VideoNotes.StartWithRearCam" = "Bắt đầu với camera sau";

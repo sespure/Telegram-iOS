@@ -249,8 +249,8 @@ private func SGControllerEntries(presentationData: PresentationData, callListSet
     entries.append(.percentageSlider(id: id.count, section: .photo, settingName: .outgoingPhotoQuality, value: SGSimpleSettings.shared.outgoingPhotoQuality))
     entries.append(.notice(id: id.count, section: .photo, text: i18n("Settings.Photo.Quality.Notice", lang)))
     entries.append(.toggle(id: id.count, section: .photo, settingName: .sendLargePhotos, value: SGSimpleSettings.shared.sendLargePhotos, text: i18n("Settings.Photo.SendLarge", lang), enabled: true))
-    entries.append(.toggle(id: id.count, section: .photo, settingName: .sendMediaAsFileByDefault, value: SGSimpleSettings.shared.sendMediaAsFileByDefault, text: i18n("Settings.Photo.SendOriginalByDefault", lang), enabled: true))
     entries.append(.notice(id: id.count, section: .photo, text: i18n("Settings.Photo.SendLarge.Notice", lang)))
+    entries.append(.toggle(id: id.count, section: .photo, settingName: .sendMediaAsFileByDefault, value: SGSimpleSettings.shared.sendMediaAsFileByDefault, text: i18n("Settings.Photo.SendOriginalByDefault", lang), enabled: true))
     
     entries.append(.header(id: id.count, section: .stickers, text: strings.StickerPacksSettings_Title.uppercased(), badge: nil))
     entries.append(.header(id: id.count, section: .stickers, text: i18n("Settings.Stickers.Size", lang), badge: nil))

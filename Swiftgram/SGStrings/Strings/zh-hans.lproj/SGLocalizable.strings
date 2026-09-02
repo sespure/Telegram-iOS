@@ -49,6 +49,7 @@
 "Settings.Photo.Quality.Notice" = "发送图片的质量";
 "Settings.Photo.SendLarge" = "发送大尺寸照片";
 "Settings.Photo.SendLarge.Notice" = "将压缩图片的尺寸限制提高到 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "圆形视频";
 "Settings.VideoNotes.StartWithRearCam" = "默认使用后置相机";

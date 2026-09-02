@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Kvalitet på opplastede bilder og historier.";
 "Settings.Photo.SendLarge" = "Send store bilder";
 "Settings.Photo.SendLarge.Notice" = "Øk grensen for komprimerte bilder til 2560 piksler.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "RUNDE VIDEOER";
 "Settings.VideoNotes.StartWithRearCam" = "Start med bakkamera";

@@ -68,7 +68,7 @@
 "Settings.Photo.Quality.Notice" = "Quality of uploaded photos and stories.";
 "Settings.Photo.SendLarge" = "Send HD Photos";
 "Settings.Photo.SendLarge.Notice" = "Increase the side limit on compressed images to 2560px.";
-"Settings.Photo.SendOriginalByDefault" = "Send Original Quality by Default";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "ROUND VIDEOS";
 "Settings.VideoNotes.StartWithRearCam" = "Start with Rear Camera";

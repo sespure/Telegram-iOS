@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "איכות התמונות היוצאות והסיפורים בתמונות";
 "Settings.Photo.SendLarge" = "שלח תמונות גדולות";
 "Settings.Photo.SendLarge.Notice" = "הגדל את הגבול הצידי של תמונות מודחקות ל-2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "וידאו מעוגלים";
 "Settings.VideoNotes.StartWithRearCam" = "התחל עם מצלמה אחורית";

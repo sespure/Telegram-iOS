@@ -49,6 +49,7 @@
 "Settings.Photo.Quality.Notice" = "傳送影像畫質";
 "Settings.Photo.SendLarge" = "傳送大尺寸影像";
 "Settings.Photo.SendLarge.Notice" = "將壓縮影像的尺寸限制增加到 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "圓形影片";
 "Settings.VideoNotes.StartWithRearCam" = "預設使用後置鏡頭";

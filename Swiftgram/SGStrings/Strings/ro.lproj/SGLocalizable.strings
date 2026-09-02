@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Calitatea fotografiilor și povestirilor încărcate.";
 "Settings.Photo.SendLarge" = "Trimite fotografii mari";
 "Settings.Photo.SendLarge.Notice" = "Crește limita laterală a imaginilor comprimate la 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "VIDEO ROTUND";
 "Settings.VideoNotes.StartWithRearCam" = "Începe cu camera posterioară";

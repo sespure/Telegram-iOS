@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Kvalita odchozích fotografií a foto-příběhů.";
 "Settings.Photo.SendLarge" = "Poslat velké fotografie";
 "Settings.Photo.SendLarge.Notice" = "Zvýšit limit velikosti komprimovaných obrázků na 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "KRUHOVÁ VIDEA";
 "Settings.VideoNotes.StartWithRearCam" = "Začít s zadní kamerou";

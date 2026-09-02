@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Kwaliteit van geüploade foto's en verhalen.";
 "Settings.Photo.SendLarge" = "Verstuur grote foto's";
 "Settings.Photo.SendLarge.Notice" = "Verhoog de zijlimiet bij gecomprimeerde afbeeldingen naar 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "RONDE VIDEO'S";
 "Settings.VideoNotes.StartWithRearCam" = "Start met achtercamera";

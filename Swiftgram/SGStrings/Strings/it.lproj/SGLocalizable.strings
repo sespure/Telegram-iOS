@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Qualità delle foto inviate e foto nelle storie";
 "Settings.Photo.SendLarge" = "Invia foto di grandi dimensioni";
 "Settings.Photo.SendLarge.Notice" = "Aumenta il limite sulla compressione delle foto a 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "Videomessaggi";
 "Settings.VideoNotes.StartWithRearCam" = "Inizia con la camera posteriore";

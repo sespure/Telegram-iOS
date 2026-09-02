@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Lähtevien valokuvien ja valokuvatarinoiden laatu.";
 "Settings.Photo.SendLarge" = "Lähetä suuria valokuvia";
 "Settings.Photo.SendLarge.Notice" = "Suurenna pakattujen kuvien sivurajaa 2560px:ään.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "PYÖREÄT VIDEOT";
 "Settings.VideoNotes.StartWithRearCam" = "Aloita takakameralla";

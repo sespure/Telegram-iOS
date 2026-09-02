@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "جودة الصور والصور الصادرة والقصص.";
 "Settings.Photo.SendLarge" = "إرسال صور كبيرة";
 "Settings.Photo.SendLarge.Notice" = "زيادة الحد الجانبي للصور المضغوطة إلى 2560 بكسل.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "فيديوهات مستديرة";
 "Settings.VideoNotes.StartWithRearCam" = "البدء بالكاميرا الخلفية";

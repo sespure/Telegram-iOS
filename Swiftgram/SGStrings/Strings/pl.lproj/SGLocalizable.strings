@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Jakość wysyłanych zdjęć i fotorelacji";
 "Settings.Photo.SendLarge" = "Wyślij duże zdjęcia";
 "Settings.Photo.SendLarge.Notice" = "Zwiększ limit rozmiaru skompresowanych obrazów do 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "OKRĄGŁE WIDEO";
 "Settings.VideoNotes.StartWithRearCam" = "Uruchom z tylną kamerą";

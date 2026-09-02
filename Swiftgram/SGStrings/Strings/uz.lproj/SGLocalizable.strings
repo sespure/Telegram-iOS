@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Yuklanadigan fotosuratlar va hikoyalarning sifati.";
 "Settings.Photo.SendLarge" = "Katta rasmlarni yuborish";
 "Settings.Photo.SendLarge.Notice" = "Tasodifiy rasmlarni to'g'rilangan hajmini 2560px ga oshiring.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "Aylana video";
 "Settings.VideoNotes.StartWithRearCam" = "Orqa kamerada boshlash";

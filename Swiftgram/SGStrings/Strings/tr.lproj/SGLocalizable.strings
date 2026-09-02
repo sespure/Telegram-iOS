@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Gönderilen fotoğrafların ve foto-hikayelerin kalitesi";
 "Settings.Photo.SendLarge" = "Büyük fotoğraflar gönder";
 "Settings.Photo.SendLarge.Notice" = "Sıkıştırılmış resimlerdeki kenar sınırını 2560 piksele çıkar";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "YUVARLAK VİDEOLAR";
 "Settings.VideoNotes.StartWithRearCam" = "Arka kamerayla başlat";

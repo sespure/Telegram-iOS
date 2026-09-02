@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Kvaliteten på uppladdade bilder och berättelser.";
 "Settings.Photo.SendLarge" = "Skicka stora foton";
 "Settings.Photo.SendLarge.Notice" = "Öka sidogränsen för komprimerade bilder till 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "RUND VIDEO";
 "Settings.VideoNotes.StartWithRearCam" = "Börja med bakre kamera";
