@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Kwaliteit van uitgaande foto's en fotostories.";
 "Settings.Photo.SendLarge" = "Stuur groot foto's";
 "Settings.Photo.SendLarge.Notice" = "Verhoog die sybeperking op saamgeperste beelde tot 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "RONDE VIDEOS";
 "Settings.VideoNotes.StartWithRearCam" = "Begin met agterkamera";

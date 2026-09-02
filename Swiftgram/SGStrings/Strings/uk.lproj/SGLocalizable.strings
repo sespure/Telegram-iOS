@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Якість відправлених фото та історій";
 "Settings.Photo.SendLarge" = "Надсилати великі фотографії";
 "Settings.Photo.SendLarge.Notice" = "Збільшити ліміт розміру стиснутих зображень до 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "КРУГЛІ ВІДЕО";
 "Settings.VideoNotes.StartWithRearCam" = "Починати запис з задньої камери";

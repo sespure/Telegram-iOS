@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Квалитет постављених фотографија и приказа.";
 "Settings.Photo.SendLarge" = "Пошаљи велике фотографије";
 "Settings.Photo.SendLarge.Notice" = "Повећај лимит величине за компресоване слике на 2560пкс.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "КРУГ ВИДЕО";
 "Settings.VideoNotes.StartWithRearCam" = "Почни са задњом камером";

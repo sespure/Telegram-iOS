@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Ποιότητα των ανεβασμένων φωτογραφιών και ιστοριών.";
 "Settings.Photo.SendLarge" = "Αποστολή Μεγάλων Φωτογραφιών";
 "Settings.Photo.SendLarge.Notice" = "Αυξήστε το πλευρικό όριο στις συμπιεσμένες εικόνες στα 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "ΤΡΟΠΟΣ ΒΙΝΤΕΟ";
 "Settings.VideoNotes.StartWithRearCam" = "Έναρξη με πίσω κάμερα";

@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Kualitas foto keluar dan cerita foto";
 "Settings.Photo.SendLarge" = "Kirim foto berukuran besar";
 "Settings.Photo.SendLarge.Notice" = "Tingkatkan batas sisi pada gambar terkompresi menjadi 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "VIDEO BULAT";
 "Settings.VideoNotes.StartWithRearCam" = "Mulai dengan kamera belakang";

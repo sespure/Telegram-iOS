@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Feltöltött fényképek és történetek minősége.";
 "Settings.Photo.SendLarge" = "Nagy fényképek küldése";
 "Settings.Photo.SendLarge.Notice" = "Növelje a tömörített képek oldalméretének határát 2560px-re.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "KEREK VIDEÓK";
 "Settings.VideoNotes.StartWithRearCam" = "Kezdje a hátsó kamerával";

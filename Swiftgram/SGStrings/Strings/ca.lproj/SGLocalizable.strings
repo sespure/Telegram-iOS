@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Qualitat de les fotos sortints i històries de fotos.";
 "Settings.Photo.SendLarge" = "Enviar fotos grans";
 "Settings.Photo.SendLarge.Notice" = "Incrementar el límit de mida en imatges comprimides a 2560px.";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "VÍDEOS RODONS";
 "Settings.VideoNotes.StartWithRearCam" = "Començar amb càmera posterior";

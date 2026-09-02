@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "Qualité des photos et des récits photo sortants";
 "Settings.Photo.SendLarge" = "Envoyer de grandes photos";
 "Settings.Photo.SendLarge.Notice" = "Augmenter la limite latérale des images compressées à 2560px";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "VIDÉOS RONDES";
 "Settings.VideoNotes.StartWithRearCam" = "Commencer avec la caméra arrière";

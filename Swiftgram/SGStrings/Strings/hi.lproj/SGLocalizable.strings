@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "भेजे गए फोटो और फोटो-कहानियों की गुणवत्ता";
 "Settings.Photo.SendLarge" = "बड़े फोटो भेजें";
 "Settings.Photo.SendLarge.Notice" = "संकुचित छवियों पर साइड सीमा को 2560px तक बढ़ाएं";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "गोल वीडियो";
 "Settings.VideoNotes.StartWithRearCam" = "रियर कैमरा के साथ शुरू करें";

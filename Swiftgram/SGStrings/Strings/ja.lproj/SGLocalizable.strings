@@ -45,6 +45,7 @@
 "Settings.Photo.Quality.Notice" = "送信する写真とフォトストーリーの品質";
 "Settings.Photo.SendLarge" = "大きな写真を送信";
 "Settings.Photo.SendLarge.Notice" = "圧縮画像のサイド制限を2560pxに増加";
+"Settings.Photo.SendOriginalByDefault" = "Send as File by Default";
 
 "Settings.VideoNotes.Header" = "丸いビデオ";
 "Settings.VideoNotes.StartWithRearCam" = "リアカメラで開始";
