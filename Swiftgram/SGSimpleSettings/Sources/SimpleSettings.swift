@@ -104,6 +104,7 @@ public class SGSimpleSettings {
         case lastAccountFolders
         case localDNSForProxyHost
         case sendLargePhotos
+        case sendMediaAsFileByDefault
         case outgoingPhotoQuality
         case storyStealthMode
         case canUseStealthMode
@@ -263,6 +264,7 @@ public class SGSimpleSettings {
         Keys.lastAccountFolders.rawValue: [:],
         Keys.localDNSForProxyHost.rawValue: false,
         Keys.sendLargePhotos.rawValue: false,
+        Keys.sendMediaAsFileByDefault.rawValue: false,
         Keys.outgoingPhotoQuality.rawValue: 70,
         Keys.storyStealthMode.rawValue: false,
         Keys.canUseStealthMode.rawValue: true,
@@ -376,6 +378,9 @@ public class SGSimpleSettings {
     
     @UserDefault(key: Keys.sendLargePhotos.rawValue)
     public var sendLargePhotos: Bool
+
+    @UserDefault(key: Keys.sendMediaAsFileByDefault.rawValue)
+    public var sendMediaAsFileByDefault: Bool
     
     @UserDefault(key: Keys.outgoingPhotoQuality.rawValue)
     public var outgoingPhotoQuality: Int32

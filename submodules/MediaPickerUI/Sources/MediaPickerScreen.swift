@@ -203,6 +203,9 @@ public final class MediaPickerScreenImpl: ViewController, MediaPickerScreen, Att
         var asFile: Bool {
             switch self {
             case let .assets(_, mode):
+                if case .default = mode {
+                    return SGSimpleSettings.shared.sendMediaAsFileByDefault
+                }
                 if case let .poll(_, asFile) = mode {
                     return asFile
                 }
